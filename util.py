@@ -1,5 +1,5 @@
 import numpy as np
-from cStringIO import StringIO
+from six.moves import StringIO
 import PIL.Image
 from IPython.display import Image, display
 
